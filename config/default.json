@@ -1,9 +1,0 @@
-{
-	"mongo" : {
-		"address" : "localhost",
-		"db"	  : "slumlord"
-	},
-	"zillow" : {
-		"zws-id"  : "X1-ZWz1b9iilf4xe3_90hcq"
-	}
-}
